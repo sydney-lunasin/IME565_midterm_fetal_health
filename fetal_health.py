@@ -4,6 +4,7 @@ import pickle
 import warnings
 import numpy as np
 from pathlib import Path
+from matplotlib import pyplot as plt # Matplotlib
 warnings.filterwarnings('ignore')
 
 st.title("Fetal Health Classification: A Machine Learning App")
