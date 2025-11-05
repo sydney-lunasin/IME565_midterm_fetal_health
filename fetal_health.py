@@ -6,6 +6,7 @@ import numpy as np
 from pathlib import Path
 import matplotlib.pyplot as plt
 warnings.filterwarnings('ignore')
+#used chat to debug deploying app
 
 st.title("Fetal Health Classification: A Machine Learning App")
 st.image('fetal_health_image.gif', width = 700)
